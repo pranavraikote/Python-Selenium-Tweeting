@@ -1,7 +1,7 @@
-# twitter-selenium
+# Python-Selenium-Tweeting
 
 This code was developed to implement an automated tweet system. 
-It shows how web automation can be achieved using Selenium and Python-A programming language which is on a steep rise now.
+It shows how web automation can be achieved using Selenium and Python - A programming language which is on a steep rise now.
 
 # Pre-requisites
 Download and install selenium module (pip install selenium).
